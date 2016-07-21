@@ -58,7 +58,6 @@ setup.cfg
 MANIFEST.in
 paul.ini
 ignore-git/
-tests/
 
 # Sphinx documentation
 docs/_build/
